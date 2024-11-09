@@ -29,7 +29,8 @@ Make the script executable:
 
 bash
 Copy code
-chmod +x snake_game.sh
+chmod +x bash.sh
+then run ./bash.sh going in the directory where the bash script is present 
 Run the game:
 ### How to Play:
 #### After starting the game, a Zenity dialog will appear asking you to choose the difficulty level (Easy, Medium, Hard, Extra Hard).
